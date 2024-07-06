@@ -1,0 +1,70 @@
+
+# Tactile Switch 1~6
+NET "s1" LOC = P47;
+NET "s2" LOC = P48;
+NET "s3" LOC = P49;
+NET "s4" LOC = P50;
+NET "s5" LOC = P51;
+NET "s6" LOC = P54;
+
+NET "led[5]" LOC = P87;
+NET "led[4]" LOC = P88;
+NET "led[3]" LOC = P90;
+NET "led[2]" LOC = P91;
+NET "led[1]" LOC = P92;
+NET "led[0]" LOC = P93;
+
+NET "CLK" LOC = P57;
+# 7-Segment Display (J1)
+NET "d1[6]" LOC = P3;
+NET "d1[5]" LOC = P4;
+NET "d1[4]" LOC = P5;
+NET "d1[3]" LOC = P6;
+NET "d1[2]" LOC = P7;
+NET "d1[1]" LOC = P8;
+NET "d1[0]" LOC = P10;
+
+# 7-Segment Display (J2)
+NET "d2[6]" LOC = P11;
+NET "d2[5]" LOC = P12;
+NET "d2[4]" LOC = P13;
+NET "d2[3]" LOC = P15;
+NET "d2[2]" LOC = P16;
+NET "d2[1]" LOC = P18;
+NET "d2[0]" LOC = P19;
+
+# 7-Segment Display (J3)
+NET "d3[6]" LOC = P20;
+NET "d3[5]" LOC = P21;
+NET "d3[4]" LOC = P24;
+NET "d3[3]" LOC = P25;
+NET "d3[2]" LOC = P27;
+NET "d3[1]" LOC = P28;
+NET "d3[0]" LOC = P29;
+
+# 7-Segment Display (J4)
+NET "d4[6]" LOC = P55;
+NET "d4[5]" LOC = P58;
+NET "d4[4]" LOC = P59;
+NET "d4[3]" LOC = P60;
+NET "d4[2]" LOC = P62;
+NET "d4[1]" LOC = P63;
+NET "d4[0]" LOC = P64;
+
+# 7-Segment Display (J5)
+NET "d5[6]" LOC = p68;
+NET "d5[5]" LOC = P69;
+NET "d5[4]" LOC = P70;
+NET "d5[3]" LOC = P71;
+NET "d5[2]" LOC = P72;
+NET "d5[1]" LOC = P75;
+NET "d5[0]" LOC = P76;
+
+# 7-Segment Display (J6)
+NET "d6[6]" LOC = P77;
+NET "d6[5]" LOC = P78;
+NET "d6[4]" LOC = P79;
+NET "d6[3]" LOC = P82;
+NET "d6[2]" LOC = P83;
+NET "d6[1]" LOC = P84;
+NET "d6[0]" LOC = P85;
